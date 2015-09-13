@@ -1,13 +1,12 @@
 ﻿// right indenting
 
 
-//function getJson()
-//{
-//    return
-//    {
-//        hello : "Hello ",
-//        world : "World"
-//    }
-//}
+function getJson()
+{
+    return {
+        hello : "Hello ",
+        world : "World"
+    }
+}
 
-//console.log(getJson()["hello"] + getJson().world);
+console.log(getJson()["hello"] + getJson().world);

@@ -12,7 +12,7 @@
     //exactFunctionName();
     //thisNameWillNotWork();
 
-    // function , array , json are reference type
+    //// function , array , json are reference type
 
     //var arr = [1, 2, 3];
     //var x = arr;

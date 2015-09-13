@@ -1,3 +1,15 @@
-﻿body {
-    background-color: white;
+﻿@variable1: white;
+body {
+    background-color: @variable1;
+}
+
+
+.fa(){
+    color:red;
+    background-color:@variable1;
+    width:200px;
+}
+
+.xyz{
+    .fa();
 }

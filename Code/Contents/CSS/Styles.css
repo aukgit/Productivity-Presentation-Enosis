@@ -1,4 +1,8 @@
 ﻿body {
   background-color: white;
 }
-/*# sourceMappingURL=Styles.css.map */
+.xyz {
+  color: red;
+  background-color: white;
+  width: 200px;
+}
